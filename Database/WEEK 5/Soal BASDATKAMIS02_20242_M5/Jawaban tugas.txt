@@ -1,0 +1,85 @@
+1.
+ID      NAMA LENGKAP    TOTAL BELANJA  JUMLAH TRANSAKSI  
+------  --------------  -------------  ------------------
+HW005   Hendra Wijaya   Rp12.500.000   3 kali            
+AF003   Ahmad Fauzi     Rp10.500.000   3 kali            
+AW011   Andi Wijaya     Rp8.600.000    2 kali            
+IP009   Indra Putra     Rp7.200.000    2 kali            
+SA002   Siti Aminah     Rp6.700.000    2 kali            
+BR007   Budi Rahman     Rp6.600.000    2 kali            
+DP014   Doni Prasetyo   Rp6.500.000    2 kali            
+CM008   Citra Maharani  Rp6.300.000    2 kali            
+LP010   Lina Permata    Rp6.000.000    2 kali            
+NK006   Nina Kusuma     Rp5.900.000    2 kali            
+BS012   Budi Susanto    Rp5.800.000    2 kali            
+DK004   Dewi Kartika    Rp5.500.000    2 kali            
+RH001   Rudi Hartono    Rp5.300.000    2 kali            
+CL013   Citra Lestari   Rp4.400.000    1 kali            
+ES015   Eka Sari        Rp3.500.000    1 kali            
+
+2.
+KODE    NAMA PRODUK         MERK           KATEGORI        HARGA  
+------  ------------------  -------------  --------  -------------
+069L    Louis Vuitton L...  Louis Vuitton  Work        12000000.00
+070D    Dior B23            Dior           Work        11000000.00
+111D    Balenciaga Trac...  Dr. Martens    Work        10500000.00
+112G    Gucci Tennis 19...  Gucci          Work         9900000.00
+067G    Gucci Ace Sneak...  Gucci          Work         9500000.00
+044P    Prada Oxford Sh...  Prada          Loafers      9200000.00
+066D    Balenciaga Spee...  Dr. Martens    Work         9000000.00
+034G    Gucci Rhyton        Gucci          Casual       9000000.00
+113P    Prada Cloudbust...  Prada          Work         8900000.00
+068P    Prada Americas ...  Prada          Work         8800000.00
+
+3.
+DETAIL PRODUKSI                                                             
+----------------------------------------------------------------------------
+| ID PRODUKSI : P001 | LAMA PRODUKSI : 4 hari | QUANTITY PRODUKSI : 500x |  
+| ID PRODUKSI : P002 | LAMA PRODUKSI : 4 hari | QUANTITY PRODUKSI : 400x |  
+| ID PRODUKSI : P003 | LAMA PRODUKSI : 4 hari | QUANTITY PRODUKSI : 450x |  
+| ID PRODUKSI : P005 | LAMA PRODUKSI : 5 hari | QUANTITY PRODUKSI : 350x |  
+| ID PRODUKSI : P007 | LAMA PRODUKSI : 5 hari | QUANTITY PRODUKSI : 500x |  
+| ID PRODUKSI : P008 | LAMA PRODUKSI : 6 hari | QUANTITY PRODUKSI : 450x |  
+| ID PRODUKSI : P009 | LAMA PRODUKSI : 6 hari | QUANTITY PRODUKSI : 480x |  
+| ID PRODUKSI : P011 | LAMA PRODUKSI : 5 hari | QUANTITY PRODUKSI : 600x |  
+| ID PRODUKSI : P012 | LAMA PRODUKSI : 6 hari | QUANTITY PRODUKSI : 700x |  
+| ID PRODUKSI : P014 | LAMA PRODUKSI : 5 hari | QUANTITY PRODUKSI : 400x |  
+| ID PRODUKSI : P016 | LAMA PRODUKSI : 5 hari | QUANTITY PRODUKSI : 500x |  
+| ID PRODUKSI : P017 | LAMA PRODUKSI : 5 hari | QUANTITY PRODUKSI : 450x |  
+| ID PRODUKSI : P018 | LAMA PRODUKSI : 6 hari | QUANTITY PRODUKSI : 550x |  
+| ID PRODUKSI : P020 | LAMA PRODUKSI : 5 hari | QUANTITY PRODUKSI : 400x |  
+| ID PRODUKSI : P021 | LAMA PRODUKSI : 5 hari | QUANTITY PRODUKSI : 700x |  
+| ID PRODUKSI : P023 | LAMA PRODUKSI : 5 hari | QUANTITY PRODUKSI : 450x |  
+| ID PRODUKSI : P024 | LAMA PRODUKSI : 6 hari | QUANTITY PRODUKSI : 480x |  
+| ID PRODUKSI : P025 | LAMA PRODUKSI : 7 hari | QUANTITY PRODUKSI : 550x |  
+| ID PRODUKSI : P027 | LAMA PRODUKSI : 6 hari | QUANTITY PRODUKSI : 700x |  
+| ID PRODUKSI : P029 | LAMA PRODUKSI : 6 hari | QUANTITY PRODUKSI : 400x |  
+| ID PRODUKSI : P031 | LAMA PRODUKSI : 6 hari | QUANTITY PRODUKSI : 500x |  
+
+4.
+JUMLAH KARYAWAN                            
+-------------------------------------------
+JABATAN : ADMIN               --> 2 Orang  
+JABATAN : GUDANG              --> 2 Orang  
+JABATAN : OPERATOR            --> 2 Orang  
+JABATAN : SUPERVISOR          --> 2 Orang  
+JABATAN : TEKNISI             --> 2 Orang  
+JABATAN : CS                  -> 1 Orang   
+JABATAN : DRIVER              -> 1 Orang   
+JABATAN : HRD                 -> 1 Orang   
+JABATAN : MANAGER KEUANGAN    -> 1 Orang   
+JABATAN : MANAGER PRODUKSI    -> 1 Orang   
+
+5.
+BAHAN BAKU                                  
+--------------------------------------------
+Terdapat 2 bahan baku yang bernama Busa     
+Terdapat 5 bahan baku yang bernama Kain     
+Terdapat 2 bahan baku yang bernama Kancing  
+Terdapat 6 bahan baku yang bernama Karet    
+Terdapat 8 bahan baku yang bernama Kulit    
+Terdapat 6 bahan baku yang bernama Lapisan  
+Terdapat 6 bahan baku yang bernama Lem      
+Terdapat 5 bahan baku yang bernama Pewarna  
+Terdapat 10 bahan baku yang bernama Sol     
+Terdapat 10 bahan baku yang bernama Tali    

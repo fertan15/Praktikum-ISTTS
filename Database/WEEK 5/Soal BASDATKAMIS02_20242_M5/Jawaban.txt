@@ -1,0 +1,118 @@
+1.
+
+ID            NAMA                   ALAMAT               TELEPON       
+------------  ---------------------  -------------------  --------------
+Gudang ke-1            GUDANG UTAMA  Di Jalan Industri    081234510000  
+Gudang ke-2            GUDANG BARAT  Di Jalan Industri    081234510001  
+Gudang ke-3            GUDANG TIMUR  Di Jalan Industri    081234510002  
+Gudang ke-4            GUDANG PUSAT  Di Jalan Industri    081234510003  
+Gudang ke-5          GUDANG SELATAN  Di Jalan Industri    081234510004  
+Gudang ke-6   GUDANG GUDANG JAKARTA  Di Jalan Raya        081234510005  
+Gudang ke-7          GUDANG BANDUNG  Di Jalan Raya        081234510006  
+Gudang ke-8         GUDANG SURABAYA  Di Jalan Raya        081234510007  
+Gudang ke-9            GUDANG MEDAN  Di Jalan Raya        081234510008  
+Gudang ke-10        GUDANG MAKASSAR  Di Jalan Raya        081234510009  
+Gudang ke-11       GUDANG PALEMBANG  Di Jalan Raya        081234510010  
+Gudang ke-12        GUDANG SEMARANG  Di Jalan Raya        081234510011  
+Gudang ke-13      GUDANG YOGYAKARTA  Di Jalan Raya        081234510012  
+Gudang ke-14            GUDANG BALI  Di Jalan Raya        081234510013  
+Gudang ke-15            GUDANG ACEH  Di Jalan Raya        081234510014  
+Gudang ke-16   GUDANG MAKASSAR BARU  Di Jalan Mangga      081234510015  
+Gudang ke-17   GUDANG JAKARTA BARAT  Di Jalan Merdeka     081234510016  
+Gudang ke-18  GUDANG SEMARANG TIMUR  Di Jalan Pahlawan    081234510017  
+Gudang ke-19  GUDANG SURABAYA SELAT  Di Jalan Taman       081234510018  
+Gudang ke-20  GUDANG PALEMBANG UTAR  Di Jalan Kenanga     081234510019  
+Gudang ke-21  GUDANG YOGYAKARTA BAR  Di Jalan Wijaya      081234510020  
+Gudang ke-22      GUDANG ACEH TIMUR  Di Jalan Sejahtera   081234510021  
+Gudang ke-23    GUDANG BALI SELATAN  Di Jalan Pantai      081234510022  
+Gudang ke-24   GUDANG BANDUNG UTARA  Di Jalan Cihampelas  081234510023  
+Gudang ke-25     GUDANG MEDAN TIMUR  Di Jalan Karya       081234510024  
+
+2.
+NAMA PRODUK               ALASAN RETUR                   TANGGAL BELI     TANGGAL RETUR    STATUS     
+------------------------  -----------------------------  ---------------  ---------------  -----------
+Nike Air Max 90           Produk cacat                   01 October 2023  03 October 2023  Accepted   
+Nike Blazer Mid           Ukuran tidak sesuai            02 October 2023  05 October 2023  Processed  
+Nike Phantom GT           Warna tidak sesuai             03 October 2023  07 October 2023  Denied     
+Adidas Copa Sense         Produk tidak lengkap           16 October 2023  20 October 2023  Accepted   
+Asics Gel Nimbus          Kemasan rusak                  18 October 2023  22 October 2023  Processed  
+Louis Vuitton LV Trainer  Produk cacat produksi          22 October 2023  25 October 2023  Accepted   
+Vans Era                  Pengiriman salah               25 October 2023  28 October 2023  Processed  
+Prada Oxford Shoes        Kualitas tidak sesuai harapan  29 October 2023  30 October 2023  Denied     
+
+3.
+ID PENJUALAN  NAMA PELANGGAN  ALAMAT PELANGGAN  PROVINSI PELANGGAN          TANGGAL PENJUALAN  
+------------  --------------  ----------------  --------------------------  -------------------
+ID001         Rudi            Jakarta           DKI Jakarta                 1st October        
+ID002         Siti            Surabaya          Jawa Timur                  2nd October        
+ID003         Ahmad           Bandung           Jawa Barat                  3rd October        
+ID005         Hendra          Semarang          Jawa Tengah                 5th October        
+ID006         Nina            Yogyakarta        Daerah Istimewa Yogyakarta  6th October        
+ID013         Citra           Surabaya          Jawa Timur                  13th October       
+ID016         Ahmad           Bandung           Jawa Barat                  16th October       
+ID017         Hendra          Semarang          Jawa Tengah                 17th October       
+ID021         Siti            Surabaya          Jawa Timur                  21st October       
+ID023         Nina            Yogyakarta        Daerah Istimewa Yogyakarta  23rd October       
+ID028         Rudi            Jakarta           DKI Jakarta                 28th October       
+ID029         Ahmad           Bandung           Jawa Barat                  29th October       
+ID030         Hendra          Semarang          Jawa Tengah                 30th October 
+
+4.
+Nama Karyawan         Gaji Pokok  Kategori_Gaji  
+--------------------  ----------  ---------------
+   Hendra Saputra     Rp 8500000  Tinggi         
+    Budi Santoso      Rp 8000000  Tinggi         
+    Lisa Permata      Rp 7000000  Tinggi         
+     Siti Aisyah      Rp 6000000  Tinggi         
+     Ahmad Fauzi      Rp 6000000  Tinggi         
+    Sari Dewanti      Rp 5500000  Tinggi         
+     Yusuf Hadi       Rp 5500000  Tinggi         
+    Rina Kartika      Rp 5000000  Menengah       
+     Andi Wijaya      Rp 5000000  Menengah       
+     Anton Salim      Rp 5000000  Menengah       
+    Dian Pratiwi      Rp 5000000  Menengah       
+    Dewi Lestari      Rp 4500000  Menengah       
+     Joko Susilo      Rp 4500000  Menengah       
+     Tono Wijaya      Rp 4000000  Menengah       
+    Mila Fitriani     Rp 4000000  Menengah       
+
+5.
+JUMLAH_PRODUK_MERK_TERJUAL                       
+-------------------------------------------------
+Puma            telah terjual sebanyak 8 produk  
+Adidas          telah terjual sebanyak 7 produk  
+Vans            telah terjual sebanyak 7 produk  
+Nike            telah terjual sebanyak 6 produk  
+New Balance     telah terjual sebanyak 6 produk  
+Reebok          telah terjual sebanyak 4 produk  
+Skechers        telah terjual sebanyak 2 produk  
+Gucci           telah terjual sebanyak 1 produk  
+Brooks          telah terjual sebanyak 1 produk  
+Converse        telah terjual sebanyak 1 produk  
+Prada           telah terjual sebanyak 1 produk  
+Louis Vuitton   telah terjual sebanyak 1 produk  
+Fila            telah terjual sebanyak 1 produk  
+Dr. Martens     telah terjual sebanyak 1 produk  
+Timberland      telah terjual sebanyak 1 produk  
+Asics           telah terjual sebanyak 1 produk  
+
+
+6.
+KARYAWAN_INFO_JANUARI                                      
+-----------------------------------------------------------
+Ahmad Fauzi     => Supervisor        , Gaji => Rp 5800000  
+Andi Wijaya     => Operator          , Gaji => Rp 5000000  
+Anton Salim     => Gudang            , Gaji => Rp 5700000  
+Budi Santoso    => Manager Produksi  , Gaji => Rp 5500000  
+Dewi Lestari    => Admin             , Gaji => Rp 5300000  
+Dian Pratiwi    => Gudang            , Gaji => Rp 6100000  
+Hendra Saputra  => Manager Keuangan  , Gaji => Rp 5100000  
+Joko Susilo     => Admin             , Gaji => Rp 4800000  
+Lisa Permata    => HRD               , Gaji => Rp 6200000  
+Mila Fitriani   => CS                , Gaji => Rp 6400000  
+Rina Kartika    => Operator          , Gaji => Rp 5200000  
+Sari Dewanti    => Teknisi           , Gaji => Rp 4900000  
+Siti Aisyah     => Supervisor        , Gaji => Rp 6000000  
+Tono Wijaya     => Driver            , Gaji => Rp 5900000  
+Yusuf Hadi      => Teknisi           , Gaji => Rp 5600000  
+      
