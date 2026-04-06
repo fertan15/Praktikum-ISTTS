@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|c:\\users\\ferli\\desktop\\documents\\kuliah\\praktikum-istts\\visual programming\\week 5\\tugasm5\\seeseatsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:seeseatsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\seatsbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:seatsbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\seatsbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:seatsbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\seeseatsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:seeseatsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,28 +23,44 @@
       "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|c:\\users\\ferli\\desktop\\documents\\kuliah\\praktikum-istts\\visual programming\\week 5\\tugasm5\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|c:\\users\\ferli\\desktop\\documents\\kuliah\\praktikum-istts\\visual programming\\week 5\\tugasm5\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|c:\\users\\ferli\\desktop\\documents\\kuliah\\praktikum-istts\\visual programming\\week 5\\tugasm5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\userpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:userpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\seatsbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:seatsbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\seatsbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:seatsbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|c:\\users\\ferli\\desktop\\documents\\kuliah\\praktikum-istts\\visual programming\\week 5\\tugasm5\\seeseatsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:seeseatsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|solutionrelative:userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B99D472-2F44-4CA0-ACB0-227FE9D10CCB}|TugasM5.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,33 +74,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 313,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "register.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "register.cs",
               "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\register.cs",
               "RelativeDocumentMoniker": "register.cs",
-              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\register.cs [Design]",
-              "RelativeToolTip": "register.cs [Design]",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\register.cs*",
+              "RelativeToolTip": "register.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T15:20:48.775Z"
+              "WhenOpened": "2025-12-08T05:14:48.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:10:52.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwD4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:10:29.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\register.cs",
+              "RelativeDocumentMoniker": "register.cs",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\register.cs [Design]*",
+              "RelativeToolTip": "register.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:20:48.775Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T15:20:21.049Z"
+              "WhenOpened": "2025-10-29T15:20:21.049Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "UserPage.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\UserPage.Designer.cs",
               "RelativeDocumentMoniker": "UserPage.Designer.cs",
@@ -96,22 +149,24 @@
               "RelativeToolTip": "UserPage.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T15:15:21.537Z"
+              "WhenOpened": "2025-10-29T15:15:21.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "User.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\User.cs",
               "RelativeDocumentMoniker": "User.cs",
               "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\User.cs [Design]",
               "RelativeToolTip": "User.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T15:15:19.923Z"
+              "WhenOpened": "2025-10-29T15:15:19.923Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Data.cs",
               "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\Data.cs",
               "RelativeDocumentMoniker": "Data.cs",
@@ -123,59 +178,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "seatsBuy.cs",
               "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\seatsBuy.cs",
               "RelativeDocumentMoniker": "seatsBuy.cs",
               "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\seatsBuy.cs",
               "RelativeToolTip": "seatsBuy.cs",
-              "ViewState": "AgIAALUAAAAAAAAAAADwv70AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAAAMkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T14:40:29.054Z"
+              "WhenOpened": "2025-10-29T14:40:29.054Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "seatsBuy.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\seatsBuy.cs",
               "RelativeDocumentMoniker": "seatsBuy.cs",
               "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\seatsBuy.cs [Design]",
               "RelativeToolTip": "seatsBuy.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T14:38:45.006Z"
+              "WhenOpened": "2025-10-29T14:38:45.006Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "UserPage.cs",
               "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\UserPage.cs",
               "RelativeDocumentMoniker": "UserPage.cs",
-              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\UserPage.cs",
-              "RelativeToolTip": "UserPage.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAiwJUAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\UserPage.cs*",
+              "RelativeToolTip": "UserPage.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T05:04:36.277Z"
+              "WhenOpened": "2025-10-29T05:04:36.277Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "UserPage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\UserPage.cs",
               "RelativeDocumentMoniker": "UserPage.cs",
-              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\UserPage.cs [Design]",
-              "RelativeToolTip": "UserPage.cs [Design]",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\UserPage.cs [Design]*",
+              "RelativeToolTip": "UserPage.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T09:58:28.866Z"
+              "WhenOpened": "2025-10-28T09:58:28.866Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "seeSeatsAdmin.cs",
               "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\seeSeatsAdmin.cs",
               "RelativeDocumentMoniker": "seeSeatsAdmin.cs",
               "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\seeSeatsAdmin.cs",
               "RelativeToolTip": "seeSeatsAdmin.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAuwDIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T05:00:42.059Z",
               "EditorCaption": ""
@@ -189,30 +248,33 @@
               "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\seeSeatsAdmin.cs [Design]",
               "RelativeToolTip": "seeSeatsAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T04:53:20.19Z"
+              "WhenOpened": "2025-10-28T04:53:20.19Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Admin.cs",
               "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\Admin.cs",
               "RelativeDocumentMoniker": "Admin.cs",
               "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\Admin.cs",
               "RelativeToolTip": "Admin.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAEwGIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgCAAAAAAAAAAAAANcBAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T15:06:01.407Z"
+              "WhenOpened": "2025-10-27T15:06:01.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Admin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\Admin.cs",
               "RelativeDocumentMoniker": "Admin.cs",
               "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 5\\TugasM5\\Admin.cs [Design]",
               "RelativeToolTip": "Admin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T14:47:18.713Z"
+              "WhenOpened": "2025-10-27T14:47:18.713Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

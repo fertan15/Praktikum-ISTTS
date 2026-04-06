@@ -1,0 +1,411 @@
+{
+	"info": {
+		"name": "New Collection",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "collection_m1",
+			"description": "",
+			"sort": 1,
+			"item": [
+				{
+					"name": "1. Register User Baru",
+					"description": "",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "localhost:3001/api/users/register",
+							"query": [],
+							"variable": [],
+							"protocol": "localhost",
+							"host": [
+								""
+							]
+						},
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "username",
+									"description": "",
+									"type": "text",
+									"value": "agus_t",
+									"disabled": false
+								},
+								{
+									"key": "email",
+									"description": "",
+									"type": "text",
+									"value": "agus@mail.com",
+									"disabled": false
+								},
+								{
+									"key": "phone_number",
+									"description": "",
+									"type": "text",
+									"value": "0811223344",
+									"disabled": false
+								},
+								{
+									"key": "address",
+									"description": "",
+									"type": "text",
+									"value": "Jl. Baru",
+									"disabled": false
+								},
+								{
+									"key": "email",
+									"description": "",
+									"type": "text",
+									"value": "joko@mail.com",
+									"disabled": true
+								},
+								{
+									"key": "phone_number",
+									"description": "",
+									"type": "text",
+									"value": "kosong lapan lima",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"sort": 1
+				},
+				{
+					"name": "2. Lihat Daftar User",
+					"description": "",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3001/api/users",
+							"query": [
+								{
+									"key": "address",
+									"value": "bandung",
+									"description": "",
+									"disabled": true
+								},
+								{
+									"key": "username",
+									"value": "JoKo",
+									"description": "",
+									"disabled": true
+								}
+							],
+							"variable": [],
+							"protocol": "localhost",
+							"host": [
+								""
+							]
+						}
+					},
+					"sort": 2
+				},
+				{
+					"name": "3. Topup Saldo User ",
+					"description": "",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "localhost:3001/api/users/1/topup ",
+							"query": [],
+							"variable": [],
+							"protocol": "localhost",
+							"host": [
+								""
+							]
+						},
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "amount",
+									"description": "",
+									"type": "text",
+									"value": "100000",
+									"disabled": false
+								},
+								{
+									"key": "amount",
+									"description": "",
+									"type": "text",
+									"value": "0",
+									"disabled": true
+								},
+								{
+									"key": "amount",
+									"description": "",
+									"type": "text",
+									"value": "sepuluh ribu",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"sort": 3
+				},
+				{
+					"name": "4. Hapus User",
+					"description": "",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "localhost:3001/api/users/3",
+							"query": [],
+							"variable": [],
+							"protocol": "localhost",
+							"host": [
+								""
+							]
+						}
+					},
+					"sort": 4
+				},
+				{
+					"name": "5. Tambah Produk Baru ",
+					"description": "",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "localhost:3001/api/products",
+							"query": [],
+							"variable": [],
+							"protocol": "localhost",
+							"host": [
+								""
+							]
+						},
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "name",
+									"description": "",
+									"type": "text",
+									"value": "Teh Celup",
+									"disabled": false
+								},
+								{
+									"key": "category",
+									"description": "",
+									"type": "text",
+									"value": "Minuman",
+									"disabled": false
+								},
+								{
+									"key": "price",
+									"description": "",
+									"type": "text",
+									"value": "10000",
+									"disabled": false
+								},
+								{
+									"key": "stock",
+									"description": "",
+									"type": "text",
+									"value": "0",
+									"disabled": false
+								},
+								{
+									"key": "weight_gram",
+									"description": "",
+									"type": "text",
+									"value": "100",
+									"disabled": false
+								}
+							]
+						}
+					},
+					"sort": 5
+				},
+				{
+					"name": "6. Lihat Produk ",
+					"description": "",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3001/api/products",
+							"query": [
+								{
+									"key": "category",
+									"value": "Sembako",
+									"description": "",
+									"disabled": true
+								},
+								{
+									"key": "maxPrice",
+									"value": "40000",
+									"description": "",
+									"disabled": true
+								},
+								{
+									"key": "sortBy",
+									"value": "desc",
+									"description": "",
+									"disabled": true
+								},
+								{
+									"key": "search",
+									"value": "Goreng",
+									"description": "",
+									"disabled": true
+								}
+							],
+							"variable": [],
+							"protocol": "localhost",
+							"host": [
+								""
+							]
+						}
+					},
+					"sort": 6
+				},
+				{
+					"name": "7. Update Data Produk",
+					"description": "",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "localhost:3001/api/products/103",
+							"query": [],
+							"variable": [],
+							"protocol": "localhost",
+							"host": [
+								""
+							]
+						},
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "stock",
+									"description": "",
+									"type": "text",
+									"value": "100",
+									"disabled": false
+								},
+								{
+									"key": "price",
+									"description": "",
+									"type": "text",
+									"value": "16000",
+									"disabled": false
+								}
+							]
+						}
+					},
+					"sort": 7
+				},
+				{
+					"name": "8. Beli Produk ",
+					"description": "",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "localhost:3001/api/buy",
+							"query": [],
+							"variable": [],
+							"protocol": "localhost",
+							"host": [
+								""
+							]
+						},
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "userId",
+									"description": "",
+									"type": "text",
+									"value": "1",
+									"disabled": false
+								},
+								{
+									"key": "productId",
+									"description": "",
+									"type": "text",
+									"value": "101",
+									"disabled": false
+								},
+								{
+									"key": "qty",
+									"description": "",
+									"type": "text",
+									"value": "1",
+									"disabled": false
+								},
+								{
+									"key": "qty",
+									"description": "",
+									"type": "text",
+									"value": "0",
+									"disabled": true
+								},
+								{
+									"key": "userId",
+									"description": "",
+									"type": "text",
+									"value": "99",
+									"disabled": true
+								},
+								{
+									"key": "productId",
+									"description": "",
+									"type": "text",
+									"value": "999",
+									"disabled": true
+								},
+								{
+									"key": "qty",
+									"description": "",
+									"type": "text",
+									"value": "19",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"sort": 8
+				}
+			]
+		}
+	],
+	"variable": [],
+	"event": [],
+	"auth": {}
+}
