@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\nebang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|solutionrelative:nebang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\nebang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|solutionrelative:nebang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|c:\\users\\ferli\\desktop\\documents\\kuliah\\praktikum-istts\\visual programming\\week 3\\materiw3\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|solutionrelative:playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\pohon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|solutionrelative:pohon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|solutionrelative:shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{670B390C-AADE-41FE-8DAC-CBBD4651073C}|MateriW3.csproj|solutionrelative:shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:17:04.335Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAUwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:35:24.897Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nebang.cs",
+              "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Nebang.cs",
+              "RelativeDocumentMoniker": "Nebang.cs",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Nebang.cs",
+              "RelativeToolTip": "Nebang.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAnwIgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:48:09.406Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nebang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Nebang.cs",
+              "RelativeDocumentMoniker": "Nebang.cs",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Nebang.cs [Design]",
+              "RelativeToolTip": "Nebang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:47:37.74Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "inventory.cs",
+              "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\inventory.cs",
+              "RelativeDocumentMoniker": "inventory.cs",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\inventory.cs",
+              "RelativeToolTip": "inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:29:55.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inventory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\inventory.cs",
+              "RelativeDocumentMoniker": "inventory.cs",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\inventory.cs [Design]",
+              "RelativeToolTip": "inventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:29:51.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Shop.cs",
+              "RelativeDocumentMoniker": "Shop.cs",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Shop.cs",
+              "RelativeToolTip": "Shop.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwHgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:23:37.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shop.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Shop.cs",
+              "RelativeDocumentMoniker": "Shop.cs",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Shop.cs [Design]",
+              "RelativeToolTip": "Shop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:16:10.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\PlayerInfo.cs",
+              "RelativeDocumentMoniker": "PlayerInfo.cs",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\PlayerInfo.cs",
+              "RelativeToolTip": "PlayerInfo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:02:59.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pohon.cs",
+              "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Pohon.cs",
+              "RelativeDocumentMoniker": "Pohon.cs",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Pohon.cs",
+              "RelativeToolTip": "Pohon.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:17:40.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ferli\\Desktop\\Documents\\Kuliah\\Praktikum-ISTTS\\Visual Programming\\Week 3\\MateriW3\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:35:41.074Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

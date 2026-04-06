@@ -1,0 +1,14 @@
+C:\Users\ferli\Desktop\Documents\Kuliah\Praktikum-ISTTS\Visual Programming\Week 4\MateriW4\obj\Debug\MateriW4.csproj.AssemblyReference.cache
+C:\Users\ferli\Desktop\Documents\Kuliah\Praktikum-ISTTS\Visual Programming\Week 4\MateriW4\obj\Debug\MateriW4.Properties.Resources.resources
+C:\Users\ferli\Desktop\Documents\Kuliah\Praktikum-ISTTS\Visual Programming\Week 4\MateriW4\obj\Debug\MateriW4.csproj.GenerateResource.cache
+C:\Users\ferli\Desktop\Documents\Kuliah\Praktikum-ISTTS\Visual Programming\Week 4\MateriW4\obj\Debug\MateriW4.csproj.CoreCompileInputs.cache
+C:\Users\ferli\Desktop\Documents\Kuliah\Praktikum-ISTTS\Visual Programming\Week 4\MateriW4\bin\Debug\MateriW4.exe.config
+C:\Users\ferli\Desktop\Documents\Kuliah\Praktikum-ISTTS\Visual Programming\Week 4\MateriW4\bin\Debug\MateriW4.exe
+C:\Users\ferli\Desktop\Documents\Kuliah\Praktikum-ISTTS\Visual Programming\Week 4\MateriW4\bin\Debug\MateriW4.pdb
+C:\Users\ferli\Desktop\Documents\Kuliah\Praktikum-ISTTS\Visual Programming\Week 4\MateriW4\obj\Debug\MateriW4.exe
+C:\Users\ferli\Desktop\Documents\Kuliah\Praktikum-ISTTS\Visual Programming\Week 4\MateriW4\obj\Debug\MateriW4.pdb
+C:\Users\ferli\Desktop\Documents\Kuliah\Praktikum-ISTTS\Visual Programming\Week 4\MateriW4\obj\Debug\MateriW4.exe.config
+C:\Users\ferli\Desktop\Documents\Kuliah\Praktikum-ISTTS\Visual Programming\Week 4\MateriW4\obj\Debug\MateriW4.adminPage.resources
+C:\Users\ferli\Desktop\Documents\Kuliah\Praktikum-ISTTS\Visual Programming\Week 4\MateriW4\obj\Debug\MateriW4.login.resources
+C:\Users\ferli\Desktop\Documents\Kuliah\Praktikum-ISTTS\Visual Programming\Week 4\MateriW4\obj\Debug\MateriW4.userPage.resources
+C:\Users\ferli\Desktop\Documents\Kuliah\Praktikum-ISTTS\Visual Programming\Week 4\MateriW4\obj\Debug\MateriW4.addStok.resources

@@ -32,8 +32,8 @@ CREATE TABLE `characters` (
 
 /*Data for the table `characters` */
 
-insert  into `characters`(`id`,`name`,`house_id`,`role`) values 
-(1,'Harry Potter',1,'Student'),
+  insert  into `characters`(`id`,`name`,`house_id`,`role`) values 
+  (1,'Harry Potter',1,'Student'),
 (2,'Hermione Granger',1,'Student'),
 (3,'Draco Malfoy',2,'Student'),
 (4,'Luna Lovegood',3,'Student'),
