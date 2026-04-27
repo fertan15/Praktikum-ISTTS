@@ -1,0 +1,40 @@
+nrp : 224117127
+x=2, y=7
+A= 27 x 2 = 54
+
+Network sesuai nrp : 192.168.54.0/23
+
+254 host - Network Admin (250 ip) (Lantai 1) : 192.168.55.0-255/24
+126 Host - Network Customer (110 ip) (Lantai 2) : 192.168.54.128 - 255/25
+62 Host - Network SoftDev (50 ip) (Lantai 3): 192.168.54.64 - 127/26
+30 Host - Network Percobaan (20ip) (Lantai 4): 192.168.54.32 - 63/27
+2 host - router 1 -> 2 : 192.168.54.0 - 3/30
+2 host - router 2 -> 4 : 192.168.54.4 - 7/30
+2 host - router 4 -> 3 : 192.168.54.8 - 11/30
+2 host - router 3 -> 1 : 192.168.54.12 - 15/30
+
+subnet /30 : 255.255.255.252
+
+SERVER DNS : 192.168.55.2
+
+
+LANTAI 1 : 192.168.55.0 
+SUBNET MASK : 255.255.255.0
+DEFAULT GATEWAY : 192.168.55.1
+
+
+LANTAI 2 : 192.168.54.128
+SUBNET MASK : 255.255.255.128
+DEFAULT GATEWAY : 192.168.54.129
+server 2A : 192.168.54.130  (ga ada isinya)
+
+
+LANTAI 3 : 192.168.54.64
+SUBNET MASK : 255.255.255.192
+DEFAULT GATEWAY : 192.168.54.65
+server 3A : 192.168.54.68 (soft.com)
+
+LANTAI 4 : 192.168.54.32 
+SUBNET MASK : 255.255.255.224
+DEFAULT GATEWAY : 192.168.54.33
+server 4A : 192.168.54.37 (percobaan.com)

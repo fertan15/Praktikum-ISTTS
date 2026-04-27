@@ -1,0 +1,480 @@
+{
+	"info": {
+		"_postman_id": "01234567-89ab-cdef-0123-456789abcdef",
+		"name": "Tugas FitLife Arena API (Port 3003)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "1. POST Register Member",
+			"item": [
+				{
+					"name": "1.1 Sukses Register",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"username\": \"budi123\",\n    \"email\": \"budi@mail.com\",\n    \"password\": \"password123\",\n    \"confirm_password\": \"password123\",\n    \"nik\": \"1234567890123456\",\n    \"birth_date\": \"1995-01-01\",\n    \"phone_number\": \"+628123456789\",\n    \"emergency_phone\": \"+628987654321\",\n    \"city\": \"Jakarta\",\n    \"postal_code\": \"12345\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3003/api/v1/members/register",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "members", "register"]
+						}
+					}
+				},
+				{
+					"name": "1.2 Error - Password Beda",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"username\": \"budi123\",\n    \"email\": \"budi@mail.com\",\n    \"password\": \"password123\",\n    \"confirm_password\": \"salahpassword\",\n    \"nik\": \"1234567890123456\",\n    \"birth_date\": \"1995-01-01\",\n    \"phone_number\": \"+628123456789\",\n    \"emergency_phone\": \"+628987654321\",\n    \"city\": \"Jakarta\",\n    \"postal_code\": \"12345\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3003/api/v1/members/register",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "members", "register"]
+						}
+					}
+				},
+				{
+					"name": "1.3 Error - Usia < 17",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"username\": \"budi123\",\n    \"email\": \"budi@mail.com\",\n    \"password\": \"password123\",\n    \"confirm_password\": \"password123\",\n    \"nik\": \"1234567890123456\",\n    \"birth_date\": \"2020-01-01\",\n    \"phone_number\": \"+628123456789\",\n    \"emergency_phone\": \"+628987654321\",\n    \"city\": \"Jakarta\",\n    \"postal_code\": \"12345\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3003/api/v1/members/register",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "members", "register"]
+						}
+					}
+				},
+				{
+					"name": "1.4 Error - HP Darurat Sama",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"username\": \"budi123\",\n    \"email\": \"budi@mail.com\",\n    \"password\": \"password123\",\n    \"confirm_password\": \"password123\",\n    \"nik\": \"1234567890123456\",\n    \"birth_date\": \"1995-01-01\",\n    \"phone_number\": \"+628123456789\",\n    \"emergency_phone\": \"+628123456789\",\n    \"city\": \"Jakarta\",\n    \"postal_code\": \"12345\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3003/api/v1/members/register",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "members", "register"]
+						}
+					}
+				},
+				{
+					"name": "1.5 Error - NIK Salah Format",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"username\": \"budi123\",\n    \"email\": \"budi@mail.com\",\n    \"password\": \"password123\",\n    \"confirm_password\": \"password123\",\n    \"nik\": \"123456\",\n    \"birth_date\": \"1995-01-01\",\n    \"phone_number\": \"+628123456789\",\n    \"emergency_phone\": \"+628987654321\",\n    \"city\": \"Jakarta\",\n    \"postal_code\": \"12345\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3003/api/v1/members/register",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "members", "register"]
+						}
+					}
+				}
+			]
+		},
+		{
+			"name": "2. POST Book Class",
+			"item": [
+				{
+					"name": "2.1 Sukses (Bawa Tamu)",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"member_id\": \"FIT-0001\",\n    \"class_type\": \"YOGA\",\n    \"schedule_date\": \"2027-01-01\",\n    \"bring_guest\": true,\n    \"guest_name\": \"Joko\",\n    \"payment_method\": \"CASH\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3003/api/v1/classes/book",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "classes", "book"]
+						}
+					}
+				},
+				{
+					"name": "2.2 Sukses (Pakai Promo)",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"member_id\": \"FIT-0001\",\n    \"class_type\": \"ZUMBA\",\n    \"schedule_date\": \"2027-01-01\",\n    \"bring_guest\": false,\n    \"promo_code\": \"DISKON50\",\n    \"payment_method\": \"CASHLESS\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3003/api/v1/classes/book",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "classes", "book"]
+						}
+					}
+				},
+				{
+					"name": "2.3 Error - Jadwal Salah",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"member_id\": \"FIT-0001\",\n    \"class_type\": \"YOGA\",\n    \"schedule_date\": \"2020-01-01\",\n    \"bring_guest\": true,\n    \"guest_name\": \"Joko\",\n    \"payment_method\": \"CASH\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3003/api/v1/classes/book",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "classes", "book"]
+						}
+					}
+				},
+				{
+					"name": "2.4 Error - Tamu Kosong",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"member_id\": \"FIT-0001\",\n    \"class_type\": \"YOGA\",\n    \"schedule_date\": \"2027-01-01\",\n    \"bring_guest\": true,\n    \"payment_method\": \"CASH\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3003/api/v1/classes/book",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "classes", "book"]
+						}
+					}
+				},
+				{
+					"name": "2.5 Error - Tamu Ilegal",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"member_id\": \"FIT-0001\",\n    \"class_type\": \"YOGA\",\n    \"schedule_date\": \"2027-01-01\",\n    \"bring_guest\": false,\n    \"guest_name\": \"Budi\",\n    \"payment_method\": \"CASH\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3003/api/v1/classes/book",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "classes", "book"]
+						}
+					}
+				},
+				{
+					"name": "2.6 Error - Promo + Cash",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"member_id\": \"FIT-0001\",\n    \"class_type\": \"ZUMBA\",\n    \"schedule_date\": \"2027-01-01\",\n    \"bring_guest\": false,\n    \"promo_code\": \"DISKON50\",\n    \"payment_method\": \"CASH\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3003/api/v1/classes/book",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "classes", "book"]
+						}
+					}
+				}
+			]
+		},
+		{
+			"name": "3. GET Member Profile",
+			"item": [
+				{
+					"name": "3.1 Sukses",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3003/api/v1/members/1234567890123456/profile",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "members", "1234567890123456", "profile"]
+						}
+					}
+				},
+				{
+					"name": "3.2 Error - Input (NIK < 16)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3003/api/v1/members/123/profile",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "members", "123", "profile"]
+						}
+					}
+				},
+				{
+					"name": "3.3 Error - Input (Huruf)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3003/api/v1/members/abcdefghij123456/profile",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "members", "abcdefghij123456", "profile"]
+						}
+					}
+				},
+				{
+					"name": "3.4 Error - DB (Tidak Ketemu)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3003/api/v1/members/9999999999999999/profile",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "members", "9999999999999999", "profile"]
+						}
+					}
+				}
+			]
+		},
+		{
+			"name": "4. PUT Pause Membership",
+			"item": [
+				{
+					"name": "4.1 Sukses",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3003/api/v1/members/pause?member_id=FIT-0001&months=3",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "members", "pause"],
+							"query": [
+								{
+									"key": "member_id",
+									"value": "FIT-0001"
+								},
+								{
+									"key": "months",
+									"value": "3"
+								}
+							]
+						}
+					}
+				},
+				{
+					"name": "4.2 Error - Query Kurang",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3003/api/v1/members/pause?member_id=FIT-0001",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "members", "pause"],
+							"query": [
+								{
+									"key": "member_id",
+									"value": "FIT-0001"
+								}
+							]
+						}
+					}
+				},
+				{
+					"name": "4.3 Error - Cuti > 6",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3003/api/v1/members/pause?member_id=FIT-0001&months=7",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "members", "pause"],
+							"query": [
+								{
+									"key": "member_id",
+									"value": "FIT-0001"
+								},
+								{
+									"key": "months",
+									"value": "7"
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		{
+			"name": "5. DELETE Cancel Membership",
+			"item": [
+				{
+					"name": "5.1 Sukses",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"reason\": \"Pindah luar kota\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3003/api/v1/members/FIT-0001/cancel",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "members", "FIT-0001", "cancel"]
+						}
+					}
+				},
+				{
+					"name": "5.2 Error - Kosong",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{}"
+						},
+						"url": {
+							"raw": "http://localhost:3003/api/v1/members/FIT-0001/cancel",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "members", "FIT-0001", "cancel"]
+						}
+					}
+				},
+				{
+					"name": "5.3 Error - < 10 Karakter",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"reason\": \"Mahal\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3003/api/v1/members/FIT-0001/cancel",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3003",
+							"path": ["api", "v1", "members", "FIT-0001", "cancel"]
+						}
+					}
+				}
+			]
+		}
+	]
+}
